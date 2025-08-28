@@ -1,46 +1,86 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RyEig_hB)
-# 🎨 Assignment: CSS Basics & The Box Model
+# Winnie Madikizella – Portfolio Website
 
-## Overview
+[![Website](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://winniemadikizella.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Winnie_Madikizella-blue)](https://www.linkedin.com/in/winnie-madikizella-data/)
 
-This assignment introduces you to the foundational principles of CSS—how to style web content, apply essential styling properties, and understand the powerful concept of the CSS Box Model. You’ll practice writing clean, organized CSS that brings structure and visual appeal to an HTML page.
+A responsive, visually appealing, and functional personal portfolio website built entirely using **raw HTML5** and **CSS3** (no frameworks or libraries).  
+This site showcases my technical expertise, unique design style, and real-world analytics projects.
 
-## Objective
+**Live Portfolio:** [https://winniemadikizella.github.io/](https://winniemadikizella.github.io/)
 
-Your goal is to create a visually styled web page using only CSS. You will apply basic styling rules to text, backgrounds, and layout elements, and demonstrate an understanding of how the CSS Box Model affects spacing and sizing on the page.
+---
 
-## What You'll Practice
+## Features
+- **Responsive Design** – Works seamlessly across desktop, tablet, and mobile.
+- **Original Branding** – Custom layout, color scheme, and typography.
+- **Detailed Project Pages** – Screenshots, descriptions, and links to demos.
+- **Accessible Navigation** – Simple, intuitive menu structure.
+- **Clean Code** – Hand-coded HTML and CSS.
 
-* Connecting CSS to your HTML (external stylesheet)
-* Using basic CSS properties such as `color`, `font-size`, `margin`, `padding`, `border`, and `background`
-* Structuring your layout with awareness of how the Box Model influences spacing and dimensions
-* Writing clean and maintainable CSS selectors and rules
+---
 
-## Instructions
+## Technologies
+- **HTML5** – Semantic, structured markup.
+- **CSS3** – Custom styling, responsive layouts.
+- **Git & GitHub** – Version control and hosting.
+- **GitHub Pages** – Deployment.
 
-Start with a basic HTML structure and create a separate CSS file named `styles.css`. Link it to your HTML file. Apply various styles to headings, paragraphs, and container sections.
+---
 
-Use the Box Model deliberately—experiment with margin, padding, and borders to see how they affect the layout. Apply background colors to visualize box boundaries. You may also style buttons, navigation, and card-like sections to demonstrate your grasp of spacing and alignment.
+## Project Structure
+```
+WinnieMadikizella.github.io/
+│
+├── index.html # Homepage / Hero Section
+├── about.html # About Me
+├── portfolio.html # Projects & Case Studies
+├── contact.html # Contact Form & Info
+││
+└───assets/ # Static assets (CSS, files, images)
+├───css/
+│ style.css # Main stylesheet
+│
+└── README.md # Documentation
+```
 
-No JavaScript or external CSS libraries (like Bootstrap) should be used.
+---
 
-## Deliverables
+## Featured Projects
 
-Submit the following files:
+1. **Automated Dashboard – LAPD Crime Statistics Dashboard**
+   Interactive dashboard analyzing LAPD crime data to identify trends and support strategic interventions.
 
-* `index.html`: A basic HTML page with structured content.
-* `styles.css`: Your external stylesheet containing all your CSS rules.
+2. **Excel – Bus Transportation Analysis**  
+   Transportation trends analysis using Excel, Power Query, and PivotTables.  
 
-Both files should work together to showcase:
+3. **SQL Exploratory Data Analysis – Restaurant Performance**  
+   SQL-based menu performance, pricing, and customer behavior analysis.  
 
-* Proper use of selectors and basic styling properties
-* Clear implementation of the CSS Box Model
-* Consistent spacing, sizing, and layout styling
+4. **Power BI – HR Attrition Analytics**  
+   Dashboard analyzing employee attrition, high-risk roles, and turnover patterns.  
 
-## Tips
+5. **Python – Automated Crypto Web Scraper** 
+   Python scraper for tracking cryptocurrency prices in real-time and automating alerts.
 
-* Correct linkage of HTML and CSS files
-* Use of appropriate CSS selectors and properties
-* Demonstration of the Box Model through visual layout (clear use of margin, padding, and borders)
-* Readability and organization of CSS code (indentation, comments, spacing)
-* Overall appearance and clarity of styled content
+6. **Python & Jupyter – Movie Genres Data Analysis**  
+   Analysis of movie genres, budgets, revenue, popularity, and voting patterns using Python and Jupyter Notebook.  
+
+7. **Tableau Dashboard – Call Center KPI Dashboard**  
+   Tableau dashboard analyzing Call Center Performance (call volume, resolution rates, satisfaction, agent KPIs).  
+
+---
+
+## Skills
+- **Data Analysis & BI:** Power BI, Tableau, Excel (VBA, Power Query, Power Pivot), SQL  
+- **Programming & Automation:** Python, R  
+- **Cloud & Data Engineering:** AWS (S3, CloudFront, Route 53, ACM), ETL, Data Pipelines  
+
+---
+
+This portfolio was **self-directed from concept to deployment** using HTML, CSS, and GitHub Pages, demonstrating both design skills and technical proficiency.
+
+---
+
+## Contact
+- **Email:** madikizellawinnie@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/winnie-madikizella-data/](https://www.linkedin.com/in/winnie-madikizella-data/)    
